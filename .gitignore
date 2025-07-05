@@ -40,9 +40,11 @@ ScaffoldingReadMe.txt
 ~$*
 *~
 CodeCoverage/
+*.vs/
 
 # MSBuild Binary and Structured Log
 *.binlog
+*.vs
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
